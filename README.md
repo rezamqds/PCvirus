@@ -1,4 +1,4 @@
-# virusPC
+# PC viruses (simple)
 It's a simple virus for education and learn how to create an easy viruses with txt to bat file ❤️‍🔥
 
 It's too simple, u don't have any professional knowledge about pc and more,  
@@ -46,4 +46,6 @@ U should copy the sentence in double quotation "*"
 Above u should copy * 
 
 Have good time 😵‍💫❤️‍🔥
+
+Note: I'll upload a word or PDF file for some effective virus 🏑
 

